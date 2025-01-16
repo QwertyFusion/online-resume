@@ -1,4 +1,4 @@
-# QwertyFusion | Link Tree
+# Rishi Banerjee | Online Resume
 
 ![Website preview for the link tree](./preview/preview.png)
 Welcome to the **Online Resume** repository! This project is a simple, stylish online resume website designed to showcase my resume in a modern looking website perspective. It's built with HTML and CSS, ensuring a clean, modern, and user-friendly experience.
